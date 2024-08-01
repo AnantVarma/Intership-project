@@ -1,0 +1,62 @@
+div {
+    text-align: center;
+   
+  }
+  
+  h2 {
+    
+    padding-top: 5%;
+    padding-bottom: 1%;
+    color: #4CAF50;
+  }
+  
+  h3 {
+    padding-top: 1%;
+    padding-bottom: 1%;
+    color: #333;
+  }
+  table{
+    border:3px solid grey;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    
+  }
+   td{
+    border: 2px solid rgba(0, 0, 0, 0.67);
+    padding-left: 80px;
+    padding-right: 80px;
+    
+    
+    
+  } 
+  
+  button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+    float: right;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  b{
+    float: right;
+   padding-top: 20px;
+   padding-left: 20px;
+   
+  }
+  table img{
+    height: 80px;
+  }
+  .heading{
+    background-color: burlywood;
+    padding-top:5%;
+    padding-left: 5%;
+
+  }
+  
