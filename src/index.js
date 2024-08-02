@@ -6,9 +6,9 @@ import './index.css';
 
 ReactDOM.render(
   <React.StrictMode>
-    <BrowserRouter basename={window.location.pathname || ''}>
+    
       <App />
-    </BrowserRouter>
+    
     
   </React.StrictMode>,
   document.getElementById('root')
